@@ -1,2 +1,0 @@
-# AgriConnect
-AGRI-CONNECT
